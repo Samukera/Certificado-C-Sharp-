@@ -1,0 +1,10 @@
+C:\Users\samuq\source\repos\Teste\Teste\bin\Debug\Teste.exe.config
+C:\Users\samuq\source\repos\Teste\Teste\bin\Debug\Teste.exe
+C:\Users\samuq\source\repos\Teste\Teste\bin\Debug\Teste.pdb
+C:\Users\samuq\source\repos\Teste\Teste\obj\Debug\Teste.csprojAssemblyReference.cache
+C:\Users\samuq\source\repos\Teste\Teste\obj\Debug\Teste.Form1.resources
+C:\Users\samuq\source\repos\Teste\Teste\obj\Debug\Teste.Properties.Resources.resources
+C:\Users\samuq\source\repos\Teste\Teste\obj\Debug\Teste.csproj.GenerateResource.cache
+C:\Users\samuq\source\repos\Teste\Teste\obj\Debug\Teste.csproj.CoreCompileInputs.cache
+C:\Users\samuq\source\repos\Teste\Teste\obj\Debug\Teste.exe
+C:\Users\samuq\source\repos\Teste\Teste\obj\Debug\Teste.pdb
